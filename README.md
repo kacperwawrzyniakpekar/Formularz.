@@ -110,6 +110,6 @@
             </tr>
         </table>
     </form>
-    <p><a href="1.html">Powrót do strony głównej</a></p>
+    <p><a href="https://kacperwawrzyniakpekar.github.io/zadania-1-6/">Powrót do strony głównej</a></p>
 </body>
 </html>
